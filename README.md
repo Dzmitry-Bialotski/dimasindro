@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Dmitriy
 #### I am a student at BSUIR
-![I am a student at BSUIR](https://lh3.googleusercontent.com/proxy/QRoUkD1ByMyC73nqak-iYqx3fRf9dkXrWlyjlYIQ4DBooGn-oX7Y0m1XphUaogNqTZMOg9YpTs2XzMcznWU347_OI8N7Aw)
 
 I just love to code and that`s the only thing you have to know, but if you want to know me better, check the links below! 😄
 
