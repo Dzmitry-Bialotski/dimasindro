@@ -3,7 +3,7 @@
 
 I just love to code and that`s the only thing you have to know, but if you want to know me better, check the links below! 😄
 
-Skills: Java SE/EE, C#, ASP. NET Core, HTML, CSS, SQL, C++, Python, Django, Android
+Skills: Java SE/EE, C#, ASP. NET Core, HTML, CSS, JS, SQL, C++, Python, Django, Android
 
 - 💬 Ask me about my projects 
 - 📫 How to reach me: check the links below 
